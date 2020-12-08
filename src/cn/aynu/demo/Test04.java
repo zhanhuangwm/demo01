@@ -1,6 +1,7 @@
 package cn.aynu.demo;
 
 public class Test04 {
+    //==与equals()方法的判断
     public static void main(String[] args) {
         String s1 = "abc";
         String s2 = s1;
